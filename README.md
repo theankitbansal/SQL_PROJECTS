@@ -66,3 +66,37 @@ Restaurant Management Database Project Restaurant Management Database Project Re
 
 Source Code – Restaurant Management Database Projects https://itsourcecode.com/sdm_downloads/online-restaurant-management-system-project-in-php-with-source-code/
 
+Feature needed – Restaurants make use of this to keep the catalog for the list of food and beverage items they offer to the customer.
+
+Wholesale Management System Database Project Sales Prediction Project The concept in this project revolves around retaining the details about stock and each detail of buyers from which managers have to buy stock. Additionally, the information of the customer is also not left out here. All payment records be it paid or pending and monthly profit calculations are also taken into consideration when constructing this particular project.
+
+Source Code – Wholesale Management System https://github.com/avijit2verma/wms.git
+
+Features needed –
+
+Details of stock include ID, name, quantity, etc. Information about a buyer including buyer ID, name, address, the ID of the stock to be bought LyFi
+
+The concept of this project encompasses modeling, building, and handling network-based smart light switches over Wifi with the help of a mobile application. It is user-friendly and enables users to regulate their house’s lights even if they are sitting on their couches and using phones. With the help of LyFi, you can switch lights on/off, and also dim the household lights.
+
+Feature needed –
+
+LyFi conducts self-discovery and configuration It can also be utilized in controlling other appliances and just not limited to just dimming light Billing System for a Departmental Store Billing System for a Departmental Store Billing System for a Departmental Store The project “Billing system” is an app that makes the procedure of ordering and billing of a “Departmental store” automatic. This web-based application is developed considering the chain of departmental stores which is located in different cities. This app also administrates its users and customers.
+
+Source Code – Billing System
+
+Feature needed –
+
+This app performs the inclusion and maintenance of consumers’ information and keeps a track of the products available It also immerses itself in incorporating and maintaining the description of new products This project can be utilized in delivering an effortless way of handling billing matters Advanced SQL Projects Art Gallery Management Database Project You can design an E-R Diagram for an Art Gallery. Gallery maintains the details related to the artist, their name, birthplace, age, and style of art. Also, the details of the artwork, the year it was created, unique title, kind of art, and prices can also be stored.
+
+Source Code – Art Gallery
+
+Features needed –
+
+The piece of artwork can be further categorized into different kinds such as the poetess, work of the 19th century still life, etc. Gallery stores the details related to the customers, like their unique name, address, amount of money spent on the gallery, and the preference of every customer. Token Booking Management System Token Booking Management System Token Booking Management System Companies these days now have the option to control their users very well owing to the introduction of token management systems that possess a well-developed database.
+
+Features needed –
+
+This definitely assists in handling tokens in a more simple way Novices should get acquainted with this as it is one of the best SQL project ideas they can begin with Electric Bill System Database Electric Bill System Database Electric Bill System Database When private electric businesses are in frantic need of a unique database, this project idea comes in handy at the right time. In other words, this project idea for SQL is of great significance owing to its high demand in electrical industries. This project contains two sections, one being the client section and the other admin section. The admin has a vital role to play in all of the management of the Electricity Billing System.
+
+Source Code – Electric Bill System Database
+

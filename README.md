@@ -116,3 +116,18 @@ While traveling, you may have come across a long queue of commuters waiting for 
 
 Source Code – Voice-Based Transport Enquiry System https://github.com/haresrv/Voice-based-Transport-Enquiry-System.git
 
+Features needed – You can create such an automated inquiry system for various transport systems so that commuters’ queries will be addressed in a voice-based format.
+
+SMS-based Remote Server Monitoring System Remote Server Monitoring System Remote Server Monitoring System This type of system is available in huge organizations functioning at a huge scale to deal with several customers. Such large organizations own call centers that deal with different applications, it becomes challenging to manage their functionality. During the time of the crash, to evade the uncertainty in attending customers and improve their experience, you can incorporate a web-based solution that can monitor such failures.
+
+Feature needed – This system sends a predetermined message automatically to the list of users, notifying them about the issue of crash or down-server.
+
+Blood Donation System Database Project
+
+This is a system where the particulars of the patient, blood bank, data of the donor will be saved and will be interrelated with each other.
+
+Source Code – Download https://drive.google.com/drive/folders/1W0jlBFWLl2K97rWaBhFD_0QETx2MKec0?usp=sharing
+
+Feature needed –
+
+Data of Patient – Name of the patient, ID, Blood group, patent disease. Data of Donor – Name and ID of Donor, Donor blood group, medical reports, contact number. Data of Blood Bank –Name of the blood bank, address, Name of blood bank donors, blood bank’s contact number, and address. Try to incorporate such a scenario in the database, build a schema for it, an ER diagram for it.

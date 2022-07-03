@@ -100,3 +100,19 @@ This definitely assists in handling tokens in a more simple way Novices should g
 
 Source Code – Electric Bill System Database
 
+Features needed –
+
+Go to the website, register to the client’s account then they can have access to the system. Now they will have the ability to check their bill of the month Users can also send a complaint regarding their bill. In the admin section, they can publish a billing statement to the client and respond to the complaints registered. Bank Accounts Management System
+
+This project was created based on the requirements of the bank. The system has the ability to encode customer information. Banking admin can have the access to the users’ status and information for the important transaction. They can manage the data required in managing user and employee files along with the transactions made by the user and staff.
+
+Source Code – Bank Accounts Management System
+
+Features needed –
+
+Security and monitoring of the user records, transactions, and status. These features were also listed and documented in reports that displayed the history of transactions accomplished in the system. Voice-Based Transport Enquiry System
+
+While traveling, you may have come across a long queue of commuters waiting for the answers to their queries made by the staff of public transport. Creating this automated inquiry answering system will help you cut down a lot of time for the staff and commuters.
+
+Source Code – Voice-Based Transport Enquiry System https://github.com/haresrv/Voice-based-Transport-Enquiry-System.git
+

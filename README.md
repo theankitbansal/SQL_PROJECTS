@@ -46,3 +46,23 @@ Payroll Management System Payroll Management System Payroll Management System Th
 
 Source Code – Payroll Management System https://github.com/ojasphansekar/Employee-Payroll-Management-System.git
 
+Feature needed –
+
+Salaries are added in this project with the help of workers data, attendance records, and leave taken Employee code, full name, time record including time in and out, should be inserted Add new payroll, ref from, view edit, delete, show entries, and search. Intermediate Projects Carbon Emission Calculator Carbon Emission Calculator Carbon Emission Calculator The project idea is about creating a web-based application that backs environmental conservation. Additionally, the result this software delivers in helping this is by calculating the carbon footprint of each building.
+
+Source code – Carbon Emission Calculator https://github.com/MarosMacko/CarbonFootprintCalculator.git
+
+Features needed – A few of the crucial data taken into consideration by this calculator are floor area, workdays per annual, building type’s custom values, climate zone, etc.
+
+Database Interfacing for LabVIEW Robotic Control LabVIEW Robotic Control LabVIEW Robotic Control The notion is to design a dynamic application named LabView for adjusting each operating parameter of robots, which is dependent on conditions that are dissimilar. Also, data should be accumulated in a way to enable the easy accessibility of the program for efficient communication.
+
+Features needed – SQL queries have a huge e part to play in one way or the other in enhancing the functionality of robots
+
+Cooking Recipe Database Cooking Recipe Database Cooking Recipe Database The SQL skill needed for this project is Database indexing. The cooking recipe database project idea is an intermediate-level SQL project that you can opt for. You can choose to design the web portal to portray your recipes under different categories. You can input details like the last viewed recipe, a recipe of the day, and a recipe blog with the help of HTML or RichText. Furthermore, you can incorporate a rating functionality that lets users rate recipes and leave comments.
+
+Features needed – You can enhance things by introducing functionality for rating and leaving comments on each recipe by users.
+
+Restaurant Management Database Project Restaurant Management Database Project Restaurant Management Database Project Restaurants with the help of their website pages initiate their delivery services online, extending the food facility they offer in their physical places. Also, these restaurants also welcome orders via phone calls and use delivery boys to deliver all the orders. The delivery boys will just deliver orders to a certain area code provided to them and they cannot deliver beyond that area. The notion is not to dump the records of the last customers as premium customers are maintained via discounts.
+
+Source Code – Restaurant Management Database Projects https://itsourcecode.com/sdm_downloads/online-restaurant-management-system-project-in-php-with-source-code/
+
